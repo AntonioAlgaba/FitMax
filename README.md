@@ -11,13 +11,14 @@
 
 
 # Technical Acceptance Criteria
-* Application uses Bootstrap.
-* Be deployed to GitHub Pages.
-* Be interactive (in other words, accept and respond to user input).
-* Use at least two server-side APIs.
-* Does not use alerts, confirms, or prompts (use modals).
-* Be responsive.
-* Have a polished UI.
+* Use React
+* Use node.js
+* Have GET routes for retrieving data
+* Be deployed using netlify
+* Use at least two libraries, packages, or technologies that we haven't discussed in the classroom before.
+* Have a polished UI
+* Meet good quality coding standards (indentation, scoping, naming).
+* Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
 
 # Technologies Used
 * HTML5
@@ -58,11 +59,14 @@ We used the following API to showcase the highlights of each fixture in the game
 
 # Contributors
 ## Group Name: The Dream Team
+* Team Members
+
 | Name       | GitHub Repo          | LinkedIn                                       |
 | ----------- | -----------         |----------------                                |
 | Adil        | https://github.com/adil7-a7 | https://www.linkedin.com/in/adilseco2/ |
 | Antonio     |                   |                                                   |
 | Umair        |                    |                                                 |
+| Zeynep    |                        |                                                  |
 
 # Demonstration
 
