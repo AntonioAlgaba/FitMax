@@ -14,13 +14,10 @@ import YTvideoss from "./ytvideos";
 
 const WorkoutPage = () =>
 {
-    return
-    (
-        <div>
-            <YTvideoss/>
-    
-        </div>
-    )
+    return( <div>
+        <YTvideoss/>
+
+    </div>)
 
 }
 export default WorkoutPage;
