@@ -1,12 +1,12 @@
 import react, { useEffect, useState } from "react";
-import $ from "jquery";
+import axios from "axios";
 
 
 const YTvideoss = () => {
   var searchTerm = "bicep exercise";
   const [allVideos, setAllVideos] = useState([]);
 
-  const axios = require("axios");
+  // const axios = require ("axios");
 
   const options = {
     method: "GET",

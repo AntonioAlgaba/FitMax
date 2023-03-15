@@ -65,25 +65,8 @@ function BMI() {
     </Card>
     
     </div>
-       {/*} <div className="shadow-lg rounded-lg bg-white p-6">
-          
-           
-           <div className="flex flex-col">
-             <input className="border border-gray-400 p-2 rounded-lg  mb-2" type="text"  />
-             <input className="border border-gray-400 p-2 rounded-lg  mb-2" type="text"  />
-           </div>
-           <div className="grid grid-rows-3 grid-flow-col gap-4">
-  <div className="row-span-3 rounded-md border-2 border-indigo-800">
-    <h2 className="text-lg font-bold mb-2">BMI</h2>
-    <div className="flex flex-col items-end">
-             <input className="mr-5 w-24 border border-gray-400 p-2 rounded-lg  mb-2" type="text"  />
-             <input className="mr-5 w-24 border border-gray-400 p-2 rounded-lg  mb-2" type="text"  />
-           </div>
-  </div>
-  <div class="col-span-3 rounded-md ">02</div>
-  
-</div>
-      </div>*/}
+    
+    
       
       </div>);
 
