@@ -65,7 +65,7 @@ We used the following API to showcase the highlights of each fixture in the game
 | ----------- | -----------         |----------------                                |
 | Adil        | https://github.com/adil7-a7 | https://www.linkedin.com/in/adilseco2/ |
 | Antonio     |                   |                                                   |
-| Umair        |                    |                                                 |
+| Umair       |                    |                                                 |
 | Zeynep    |                        |                                                  |
 
 # Demonstration
