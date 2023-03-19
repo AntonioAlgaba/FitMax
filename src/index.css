@@ -1,3 +1,30 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+main
+{
+    background-color: #142738;
+}
+
+.Health_Metrics
+{
+    margin-top: 5%;
+    background-color: white ;
+    height: fit-content;
+    width: max-content;
+    flex-wrap: wrap;
+
+}
+
+nav
+{
+    background-color: #142738;
+    color: white;
+}
+
+.myCarousel
+{
+    height: 100px;
+    width: fit-content;
+}

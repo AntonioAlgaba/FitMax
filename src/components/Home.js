@@ -1,33 +1,36 @@
 
 import UncontrolledExample from "./bootstrapCarousel";
+import {
+    // Card,
+    // CardHeader,
+    // CardBody,
+    // CardFooter,
+    // Input,
+    // Button,
+    // Typography,
+    Container,
+    Row,
+  } from "@material-tailwind/react";
+  
 
 function Home() {
-
-    // const slides = 
-    // [
-    //     {
-    //         url: "../assets/images/running.jpg"
-    //     },
-    //     {
-    //         url: "./assets/images/running2.jpg"
-    //     },
-    //     {
-    //         url: "./assets/images/old_people.jpg"
-    //     },
-    // ];
 
     return (
         <>
     
             <main>
                 {/* div for carousel */}
-                <div className="max-w- h-[50%] w-full m-auto py-16 px-4 relative">
+                <div className="annoyingImg">
                     <div> <UncontrolledExample /> </div>
                 </div>
                 
                 {/* div for importance of health */}
-                <div>
-                    
+                <div className="HealthMetrics">
+                    <Container>
+                        <Row>
+
+                        </Row>
+                    </Container>
                 </div>  
 
                 {/* div for our sponsors */}

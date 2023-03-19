@@ -1,13 +1,16 @@
 import Carousel from 'react-bootstrap/Carousel';
+import running_img from "../assets/images/running_img.jpg";
+import running_2 from "../assets/images/running_2.jpg";
 
 function UncontrolledExample() {
   return (
     <Carousel>
       <Carousel.Item>
         <img
-          className="d-block w-100"
-          src="https://images.unsplash.com/photo-1594882645126-14020914d58d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1485&q=80"
+          className="why_not"
+          src= {running_img}
           alt="First slide"
+          style= {{height:'40%'}}
         />
         <Carousel.Caption>
           <h3> Run now for 30min</h3>
@@ -17,9 +20,10 @@ function UncontrolledExample() {
 
       <Carousel.Item>
         <img
-          className="d-block w-100"
-          src="https://www.theinertia.com/wp-content/uploads/2016/01/shutterstock_364742141.jpg"
+          className="carousel_1"
+          src={running_2}
           alt="Second slide"
+          style= {{height:'40%'}}
         />
 
         <Carousel.Caption>
@@ -31,12 +35,14 @@ function UncontrolledExample() {
       
       <Carousel.Item>
         <img
-          className="d-block w-100"
+          className="carousel_2"
           src="https://prod-everyoneactive-wp.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/03/19120257/home-workouts-1.jpg"
+          alt= "third slide"
+          style= {{height:'40%'}}
         />
 
         <Carousel.Caption>
-          <h3></h3>
+          <h3>Exercise is benefitial for mental health!</h3>
           <p>
             Praesent commodo cursus magna, vel scelerisque nisl consectetur.
           </p>

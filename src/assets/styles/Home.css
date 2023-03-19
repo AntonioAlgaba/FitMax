@@ -1,0 +1,24 @@
+
+
+.Health_Metrics
+{
+    background-color: white ;
+    height: fit-content;
+    width: max-content;
+    flex-wrap: wrap;
+    color: white;
+    
+}
+
+nav
+{
+    background-color: #142738;
+    color: white;
+}
+
+.annoyingImg
+{
+    height: 50px;
+    background-color: red;
+}
+
