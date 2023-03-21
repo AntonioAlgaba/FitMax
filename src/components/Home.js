@@ -32,7 +32,7 @@ function Home() {
         <section className="metricsCardContainer">
           <Row>
             <Col className="BMICardinHome" lg={4} sm={12}>
-              <Card style={{ width: "22rem", minHeight:"22rem" }}>
+              <Card style={{ width: "22rem", minHeight:"23rem" }} id="cardStyleHome">
                 <Card.Body>
                   <Card.Title>BMI</Card.Title>
                   <Card.Text>
@@ -48,7 +48,7 @@ function Home() {
             </Col>
 
             <Col className="FatCardinHome" lg={4} sm={12}>
-              <Card style={{ width: "22rem", minHeight:"22rem" }}>
+              <Card style={{ width: "22rem", minHeight:"23rem" }} id="cardStyleHome">
                 <Card.Body>
                   <Card.Title>Calories</Card.Title>
                   <Card.Text>
@@ -65,7 +65,7 @@ function Home() {
             </Col>
 
             <Col className="CaloriesCardinHome" lg={4} sm={12}>
-              <Card style={{ width: "22rem" }}>
+              <Card style={{ width: "22rem", minHeight:"23rem"}} id="cardStyleHome">
                 <Card.Body>
                   <Card.Title>Body Fat %</Card.Title>
                   <Card.Text>

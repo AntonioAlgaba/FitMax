@@ -66,3 +66,9 @@ header {
   width: 100%;
   margin: 0% auto;
 }
+#cardStyleHome {
+  background: #142738;
+  border: 2px solid #93DEFF;
+  border-radius: 1rem;
+  color: white;
+}
