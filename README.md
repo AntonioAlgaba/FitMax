@@ -69,6 +69,10 @@ We used the following API to showcase the highlights of each fixture in the game
 
 # Demonstration
 
+## App page
+
+![https://github.com/AntonioAlgaba/FitMax/blob/main/src/assets/images/Fitmax.jpg]
+
 ## Landing Page
 ![landing page](https://user-images.githubusercontent.com/117782725/227036917-54cb9ef4-555f-4cfd-882e-61903b2416c3.gif)
 
